@@ -1,0 +1,27 @@
+# Build / output
+/out/
+/bin/
+/build/
+
+# IDE
+/.idea/
+/.vscode/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs, tmp
+*.log
+*.tmp
+
+# Java
+*.class
+
+# Optional: keep lib jars under version control if you want; otherwise ignore
+# /lib/*.jar
